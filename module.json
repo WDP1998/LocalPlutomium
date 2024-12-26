@@ -17,10 +17,10 @@
 	"readme": "README.md",
 	"license": "UNLICENSED",
 	"bugs": "https://discord.gg/nGvRCDs",
-	"changelog": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/CHANGELOG.md",
+	"changelog": "https://raw.githubusercontent.com/WDP1998/LocalPlutomium/refs/heads/main/CHANGELOG.md",
 	"url": "https://www.patreon.com/Giddy5e",
 	"manifest": "https://raw.githubusercontent.com/WDP1998/LocalPlutomium/refs/heads/main/module.json",
-	"download": "https://github.com/TheGiddyLimit/plutonium-next/raw/master/plutonium.zip",
+	"download": "https://raw.githubusercontent.com/WDP1998/LocalPlutomium/refs/heads/main/plutonium.zip",
 	"compatibility": {
 		"minimum": "12",
 		"verified": "12.331",
