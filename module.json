@@ -58,7 +58,7 @@
 				"type": "system",
 				"compatibility": {
 					"minimum": "3.1.0",
-					"verified": "3.3.1",
+					"verified": "4.1.2",
 					"maximum": "4.9.999"
 				}
 			}
@@ -87,6 +87,6 @@
 		}
 	},
 	"flags": {
-		"attributions": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/ATTRIBUTIONS.md"
+		"attributions": "https://raw.githubusercontent.com/WDP1998/LocalPlutomium/refs/heads/main/ATTRIBUTIONS.md"
 	}
 }
